@@ -1,0 +1,116 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+egg-info/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+*.egg
+MANIFEST
+
+# Pyenv
+.python-version
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# pyenv
+.venv
+venv/
+ENV/
+env/
+venv.bak/
+env.bak/
+
+# virtualenv
+.pyenv/
+venv/
+ENV/
+env/
+.venv/
+venv.bak/
+env.bak/
+lib/
+lib64/
+local/
+ 
+
+# Translations
+*.mo
+*.pot
+
+# VS Code
+.vscode/
+
+# IDEs and editors
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.orig
+*.local
+*.project
+*.pydevproject
+
+# Coverage reports
+.coverage
+.coverage.*
+nosetests.xml
+*.cover
+*.py,cover
+*.log
+*.data
+*.json
+
+# Test output
+*.test
+*.test.*
+
+# Logs
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env.*
+*.env
+.envrc
+*.envrc
+env/
+.venv/
+
+# Miscellaneous
+*.DS_Store
+*.bak
+*.tmp
+*.swp
+*~
+*.swo
+*.swn
+*.patch
+*.pid
+
+# Python build files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
